@@ -1,4 +1,4 @@
-package sabarii;
+package sabari;
 
 public class MyProgram {
 
